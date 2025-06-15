@@ -16,7 +16,7 @@ npm install
 
 4. Run local server
 ```bash
-npm run server
+npm run dev
 ```
 
 5. If the server is running it should be running at `http://localhost:5173/`.
