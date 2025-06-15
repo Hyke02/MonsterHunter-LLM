@@ -4,7 +4,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/SEVerhaak/fcpx-help-chat.git
+git clone https://github.com/Hyke02/MonsterHunter-LLM.git
 ```
 
 2. Install dependencies
